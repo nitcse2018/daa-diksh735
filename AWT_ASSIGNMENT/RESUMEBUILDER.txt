@@ -1,0 +1,45 @@
+
+ 	-----------------------------------RESUME------------------------------------
+ 	 1. PERSONAL INFORMATION
+First Name:  :  Diksha
+Middle Name:  :  John
+Last Name:  :  Goyal
+Gender:  :  Female
+Date of Birth:  :  02/4/2000
+Address:  :  #103,Panchkula,Chandigarh,India
+Email ID:  :  181210021@nitdelhi.ac.in
+Contact:  :  9856738290
+
+ 	 2. EDUCATION
+Qualification:  :  Undergraduate
+Institute Name:  :  NIT DELHI
+Branch:  :  CSE
+CGPA:  :  8.9
+Semester:  :  4
+School Name:  :  Kendriya Vidhyalaya
+Percentage:  :  94
+
+ 	 3. WORK EXPERIENCE
+Work Experience & Training:  :  
+Sleep
+Eat
+Repeat
+
+Internships & Projects:  :  
+Bhangra
+is
+the 
+BEST
+
+Career Objectives:  :  I love to grow and learn new things 
+
+Skills:  :  
+Bhangra
+Programming in C,C++,Java,JavaScript,Python,Nodejs
+Team Player
+Bathroom Singer
+
+Acheivements:  :  
+Bronze and Gold in Inter NIT Kabaddi Tournament
+Top 20 in Coding Tournament
+I eat alot and sleep alot :)
