@@ -38,7 +38,7 @@ int bound(Node u, int n, int W, Item arr[])
 	}
 	if (j < n)
 		profit_bound += (W - totweight) * arr[j].value /
-										arr[j].weight;
+									arr[j].weight;
 
 	return profit_bound;
 }
