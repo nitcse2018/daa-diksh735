@@ -4,9 +4,9 @@ Roll number:181210021
 Branch: CSE 2nd year
 */
 /*
-The N Queen is the problem of placing N chess queens on an N×N chessboard so that no two queens attack each other.
+The N Queen is the problem of placing N chess queens on an NÃ—N chessboard so that no two queens attack each other.
 INPUT::4
-OUTPUT:
+OUTPUT : 
  _ Q _ _
  _ _ _ Q
  Q _ _ _
